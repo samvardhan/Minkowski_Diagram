@@ -2,7 +2,8 @@ import numpy
 from matplotlib import pyplot as plt
 
 class minkowski:
-  def mink_diagram:
+  def mink_diagram(d,t,v):
+    
     fig = plt.figure(figsize=[14,14])
     x = np.arange(-10,11)
     y = np.sqrt(x**2)
@@ -13,7 +14,7 @@ class minkowski:
     plt.annotate('ct', (-1,9),fontsize = 13)
 
     gamma = math.sqrt(1/(1-v**2))
-    dprime = gamma*(d1 - v*t)
+    dprime = gamma*(d - v*t)
     tprime = gamma*(t - v*d)
     alpha = math.atan(v)
     d = np.abs(d)
