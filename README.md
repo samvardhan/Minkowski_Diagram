@@ -18,7 +18,7 @@ For this illustration, we set speed of light c = 1.
 
 Visualizing Examples 
 
-Time Dilation 
+"Time Dilation"
 
 We set d = 0, t = 3, v = 0.5c 
 
@@ -30,7 +30,7 @@ t_prime > t
 A moving observer would remark that time passes slower for the non-moving observer.  
 
 
-Relative nature of simultaneity!
+"Relative nature of simultaneity"
 
 We set d = 5, t = 0, v =0.5
 
