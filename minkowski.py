@@ -1,8 +1,7 @@
 import numpy
 from matplotlib import pyplot as plt
 
-class minkowski:
-  def mink_diagram(d,t,v):
+def mink_diagram(d,t,v):
     
     fig = plt.figure(figsize=[14,14])
     x = np.arange(-10,11)
