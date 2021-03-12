@@ -36,5 +36,7 @@ We set d = 5, t = 0, v =0.5
 
 ![Screen Shot 2021-03-11 at 6 06 27 PM](https://user-images.githubusercontent.com/44649832/110871719-83075a80-8294-11eb-97f8-e89dc9c1e852.png)
 
+t_prime is negative
+
 Non-moving observer sees Events A and B happen simultaneously, but for moving observer Event B happens before event A!
 
