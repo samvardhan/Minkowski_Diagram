@@ -6,7 +6,7 @@ This module gives the Minkowski space-time diagram for an event.
 
 Event A happens at t = 0 , d = 0 as reference. 
 
-The user specifies the Event B coordinates in an inertial frame, and the velocity of the moving frame as a fraction of c (e.g. 0.3c, fixed along the x-axis). 
+The user specifies the Event B coordinates (d,t) in an inertial frame, and the velocity (v) of the moving frame as a fraction of c (e.g. v = 0.3c, fixed along the x-axis). 
 A lorentz transformation gives the moving frame axes and the primed coordinates of Event B. 
 
 For this illustration, we set speed of light c = 1. 
