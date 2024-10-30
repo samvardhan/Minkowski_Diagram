@@ -1,7 +1,5 @@
 # Minkowski_Diagram
 
-Welcome! 
-
 This module gives the Minkowski space-time diagram for an event. 
 
 Event A happens at t = 0 , d = 0 as reference, indicated by red dot at origin (0,0). 
